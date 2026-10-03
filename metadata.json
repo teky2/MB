@@ -1,0 +1,6 @@
+{
+  "name": "Mahabharata — The Epic of Dharma and Time",
+  "description": "A production-grade, cinematic, interactive web experience exploring the Mahabharata through the Chakra of Time, scroll-driven cameras, and historical chapters.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
